@@ -14,6 +14,12 @@ public class TestNG
 		
 		System.out.println("This is dummy");
 	}
+	@Test
+	public void testcase3() {
+		
+		System.out.println("This is dummy");
+	}
+
 
 
 }
