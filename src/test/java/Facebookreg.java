@@ -30,7 +30,7 @@ public class Facebookreg {
 		Thread.sleep(3000);
 		driver.findElement(By.name("sex")).click();
 		driver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[6]/div[1]/div[1]/input[1]")).sendKeys("8305572822");
-		driver.findElement(By.xpath("//input[@id='password_step_input']")).sendKeys("eshi00");
+		driver.findElement(By.xpath("//input[@id='password_step_input']")).sendKeys("eshi09");
 		}
 
 	
